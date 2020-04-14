@@ -20,7 +20,7 @@ If successful, you are now good to go! Double click the shortcut on the desktop 
 
 If you move the RobloxShortcuts folder once shortcuts are generated, they will stop working. You will have to generate new shortcuts or edit the path of the shortcut.
 
-If desktop icons dont update, try opening command prompt and entering 'ie4uinit.exe - show' to update windows icon cache.
+If desktop icons dont update, try opening command prompt and entering 'ie4uinit.exe -show' to update windows icon cache.
 
 To view the source code, you'll need Visual Studio (I wrote this using Community 2019, but should work in other versions). You'll also need to install Magick.NET-Q16AnyCpu and System.Text.Json using Nuget Package Manager.
 

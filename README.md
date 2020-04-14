@@ -1,6 +1,6 @@
 # RobloxShortcutGenerator
 ## Installation:
-Just extract the 'RobloxShortcuts' folder to documents/desktop or wherever you want to keep it. All files are necessary, dont delete, move, or rename anything
+Download the 'RobloxShortcuts.zip' and extract the 'RobloxShortcuts' folder to documents/desktop or wherever you want to keep it. All files are necessary, dont delete, move, or rename anything
 
 ## Usage:
 Run RobloxShortcuts.exe to open the tool.
